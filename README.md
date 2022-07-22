@@ -1,5 +1,5 @@
 ### [ java_prac ]
 
  #### * **BAEKJOON**
- * BAEKJOON → Hello World [ n_2557 ] 
- * BAEKJOON → A+B [ n_1000 ]
+ * BAEKJOON → n_2557 [ Hello World ] 
+ * BAEKJOON → n_1000 [ A+B ]
